@@ -20,13 +20,18 @@ div{
 h1{
     text-align: center;
 }
-
+h3{
+    margin-left: 50px;
+    margin-right: auto;
+    width: 50%;
+}
 p{
     text-align: center;
     width: 50%;
     color: burlywood; 
-    margin-left: auto; 
+    margin-left: 50px; 
     margin-right: auto;
+
 
 
 } 
@@ -34,15 +39,15 @@ table{
     margin: auto; 
     border:5px;
 }
-.bilde image{
-    max-width: 50px;
-}
+
 .meny ul{
     list-style-type: none;
     background-color: rgb(94, 94, 94);
     padding: 15px;
     display: block;
     overflow: hidden;
+    margin-top: 0%;
+    
     
 }
 .meny a{
