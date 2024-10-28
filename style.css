@@ -9,6 +9,8 @@ body {
 div{
     background-color: white;
     width: 70%;
+    display: flex;
+    flex-flow: column;
     margin: auto;
     color: burlywood;
     text-align: center;
