@@ -11,13 +11,14 @@ div{
     width: 70%;
     display: flex;
     flex-flow: column;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     color: burlywood;
     text-align: center;
     border-style: inset;
     border-color: burlywood;
     border-width: 5px;
-    height: 70%;
+    height: 100%;
     position: relative;
 
 
@@ -25,8 +26,14 @@ div{
 #bilde{
     position: absolute; 
     top:30%; 
-    right: 10%;
-    width: 30%;
+    right: 7%;
+    width: 25%;
+    
+
+}
+#bildepython{
+    margin-left: 50px;
+    width: 40%;
 }
 
 h1{
